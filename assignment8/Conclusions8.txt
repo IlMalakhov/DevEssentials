@@ -1,0 +1,14 @@
+1. abcsort.py
+	I first used three separate input statements to assign variables but then changed
+it to a single line that returns a list of strings and maps everything to a, b and c ints
+afterwards. Same goes for the main part of the script: I started by using buffers just
+like an example from the lecture but then decided to reassign variables all at once with
+a, b = b, a and so on.
+	Overall, it was an insightful limitation that pushed me towards a 
+different approach.  
+
+2. strlist.py
+	Similarly to the bash script with enumerating files, I initially tried using
+string_count++ but it gave me an error (thought it was possible either way). I also think 
+that the script won't work on nested lists because their type is list and therefore skipped
+by the script.
