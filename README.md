@@ -1,4 +1,10 @@
 # DevEssentials
+| <img src="https://gsom.spbu.ru/templates/gsom/img/favicon.png" width="100">
+| :-:
+| stolen 🥹
+
+---
+
 ```
   ______    ______    ______   __       __ 
  /      \  /      \  /      \ |  \     /  \
